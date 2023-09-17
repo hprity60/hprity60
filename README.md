@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif)](https:smrity.io)<h1 align="center">Hi 👋, I'm Hosney Ara Smrity</h1>
+<h1 align="center">Hi 👋, I'm Hosney Ara Smrity</h1>
 <h3 align="center">🚀 Flutter Developer | Mobile App Enthusiast | Code Magician</h3>
 
 
