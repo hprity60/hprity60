@@ -69,7 +69,7 @@
 ---
 
 ### 📂 SQA & Development Showcase
-- 🧪 **[SQA Testing Portfolio](https://github.com/hprity60)** - Includes Test Execution Matrices, Real Bug Reports, and Postman API Test Scripts.
+- 🧪 **[SQA Testing Portfolio](https://github.com/hprity60/SQA-Testing-Portfolio)** - Includes Test Execution Matrices, Real Bug Reports, and Postman API Test Scripts.
 - 📱 **[Ecommerce App with GetX/BLoC](https://github.com/hprity60/assignment_project)** - Cross-platform Flutter Application.
 
 ---
